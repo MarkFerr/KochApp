@@ -1,21 +1,37 @@
 # KochApp
 
-einfach KochApp_v???.apk runterladen und installieren :)
+Hallo,
 
-App installieren: https://www.wikihow.com/Install-APK-Files-from-a-PC-on-Android
+Danke schonmal für's Testen/ Benutzen der App.
 
-Mir einfach schreiben, wenn irgendwas nicht geht oder ander sachen auffallen.
+Wenn irgendwelche Probleme oder Fehler(wird es auf jeden fall geben) auftreten, kannst du mir einfach schreiben.
 
-Im moment geht nur:
+Wenn du Ideen zum Design hast kannst du sie mir auch gerne schicken.
 
-  - Konto erstellen, Anmelden, Abmelden, Passwort vergessen 
+Ich suche übrigens noch nach einem passenden Namen, also nur her mit den Vorschlägen ;).
 
-  - Gerichte erstellen, bearbeiten und anschauen in Hauptgerichte, die anderen sind noch nicht soweit
+-------
 
-  - Bis zu 3 Gerichtplanungen pro tag im Kalender erstellen und speichern.
+Fangen wir mit der Installation an.
 
-  - Zutaten von einer Woche im kalender zur einkaufsliste hinzufügen, sieht man aber nicht ;)
+Dazu musst du die aktuelle .apk Datei runterladen und deine Entwickleroptionen einschalten, dann die .apk datei öffnen.
+Die App sollte sich nun installieren.
 
-  - Einkaufsliste anschauen aber noch nichts daran verändern ...
+Hier noch eine kleine Anleitung dazu: https://www.wikihow.com/Install-APK-Files-from-a-PC-on-Android
 
-  -
+---
+
+Nun zur app selbst. Ich werde hier kurz alle Funktionen zeigen und kurz beschreiben. Du kannst natürlich auch einfach loslegen und dich in der App austoben. Es sollte alles selbsterklärend sein.
+
+- Login, Konto erstellen, Passwort vergessen:
+
+![](https://github.com/MarkFerr/KochApp/blob/main/Screenshots/Login_270_600.png)
+![](https://github.com/MarkFerr/KochApp/blob/main/Screenshots/KontoErstellen_270_600.png)
+![](https://github.com/MarkFerr/KochApp/blob/main/Screenshots/PasswortZuruecksetzen_270_600.png)
+  
+  Ich gehe mal davon aus, dass du dich schonmal irgendwo angemeldet hast. Wenn du dir ein Konto erstellst musst du keine echte E-mail adresse verwenden, aber dann Funktioniert auch nicht die "Passwort vergessen" Funktion.
+
+Wenn du dein Passwort vergessen hast, einfach auf den Text "Passwort vergessen" clicken, deine E-Mail-Adresse eingeben und auf eine E-Mail von Firebase warten.
+
+
+  
