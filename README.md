@@ -45,7 +45,7 @@ Wenn du dein Passwort vergessen hast, einfach auf den Text "Passwort vergessen" 
 
   Hier geht leider erst der Button "Hauptgerichte" aber die anderen werden prinzipiell genauso funktionieren, wenn sie fertig sind.
   
-  Drückt man auf "Hauptgerichte" öffnet sich die Übersicht der Hauptgerichte (Link zu Übersicht Hauptgerichte)
+  Drückt man auf "Hauptgerichte" öffnet sich die Übersicht der Hauptgerichte (Link zu Hauptgericht Übersicht)
   
   Wenn man von der linken Seite des Bildschirms nach rechts wischt oder auf das Drawer-Symbol in der Ecke oben links drückt, öffnet sich das Drawer-Menü (Link zu Drawer abteil)
 
