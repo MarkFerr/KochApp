@@ -45,15 +45,12 @@ Wenn du dein Passwort vergessen hast, einfach auf den Text "Passwort vergessen" 
 
   Hier geht leider erst der Button "Hauptgerichte" aber die anderen werden prinzipiell genauso funktionieren, wenn sie fertig sind.
   
-  Drückt man auf "Hauptgerichte" öffnet sich die Übersicht der Hauptgerichte (
-  
-  [Link] (#hauptgerichte_uebersicht)
+  Drückt man auf "Hauptgerichte" öffnet sich die Übersicht der Hauptgerichte (Link zu Hauptgericht übersicht)
   
   Wenn man von der linken Seite des Bildschirms nach rechts wischt oder auf das Drawer-Symbol in der Ecke oben links drückt, öffnet sich das Drawer-Menü (Link zu Drawer abteil)
 
   ---
   
-  <a name="hauptgerichte_uebersicht></a>
 - Übersicht Hauptgerichte
 
 ![](https://github.com/MarkFerr/KochApp/blob/main/Screenshots/Hauptgericht_uebersicht_270_600.png)
