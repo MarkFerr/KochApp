@@ -12,7 +12,7 @@ Ich suche übrigens noch nach einem passenden Namen, also nur her mit den Vorsch
 
 ---
 
-- [Zu den neuen Features](#neue-features) (aktuelle Version v0.01)
+- [Zu den neuen Features](#neue-features) (neuste Version v0.01)
 
 ---
 
@@ -74,11 +74,11 @@ Außerdem kann man das Bild des entsprechenden Gerichts ändern oder das Gericht
 
 Hier sieht man das gewählte Gericht im Detail. Man kann die Personenanzahl, für die man Kochen möchte, ändern. Entsprechend passen sich die Zutaten, die benötigt sind, an.
 
-Drückt man auf den Button oben rechts in der Ecke, öffnet sich ein Menü. Hier kann man das Bild vom Gericht ändern, das Gericht bearbeiten, das Gericht löschen und einen Termin bestimmen, an dem man das Gericht essen möchte ([Gericht planen](#gericht-planen,-von-der-detailansicht)).
+Drückt man auf den Button oben rechts in der Ecke, öffnet sich ein Menü. Hier kann man das Bild vom Gericht ändern, das Gericht bearbeiten, das Gericht löschen und einen Termin bestimmen, an dem man das Gericht essen möchte ([Gericht planen](#gericht-planen-von-der-detailansicht)).
 
 ---
 
-# Gericht planen, von der Detailansicht
+# Gericht planen von der Detailansicht
 
 ![](https://github.com/MarkFerr/KochApp/blob/main/Screenshots/Gericht_Planen_vonDetail_270_600.png)
 
@@ -131,13 +131,13 @@ Die grünen Punkte Zeigen einen Eintrag an. Wählt man einen dieser Tage aus, we
 
 Drückt man auf diese komische Einkaufswagen-Symbol werden (wie da drüber auch zu lesen ist) alle Zutaten der Ausgewählten Woche zur [Einkaufsliste](#einkaufsliste) hinzugefügt.
 
-Mit dem "+"-Button kann man für den ausgewählten Tag ein [Gericht planen](#gericht-planen,-vom-kalender).
+Mit dem "+"-Button kann man für den ausgewählten Tag ein [Gericht planen](#gericht-planen-vom-kalender).
 
 Man kann nicht in der Vergangenheit planen und auch nur bis zu 3 Monate in die Zukunft.
 
 ---
 
-# Gericht planen, vom Kalender
+# Gericht planen vom Kalender
 
 ![](https://github.com/MarkFerr/KochApp/blob/main/Screenshots/Kalender_planen_270_600.png)
 
