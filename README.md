@@ -12,6 +12,10 @@ Ich suche übrigens noch nach einem passenden Namen, also nur her mit den Vorsch
 
 ---
 
+- [Zu den neuen Features](#neue-features) (aktuelle Version v0.01)
+
+---
+
 (Sorry für alle Rechtschreibfehler)
 
 -------
@@ -27,7 +31,7 @@ Hier noch eine kleine Anleitung dazu: https://www.wikihow.com/Install-APK-Files-
 
 Nun zur app selbst. Ich werde hier kurz alle Funktionen zeigen und kurz beschreiben. Du kannst natürlich auch einfach loslegen und dich in der App austoben. Es sollte alles selbsterklärend sein.
 
-- Login, Konto erstellen, Passwort vergessen:
+# Login, Konto erstellen, Passwort vergessen:
 
 ![](https://github.com/MarkFerr/KochApp/blob/main/Screenshots/Login_270_600.png)
 ![](https://github.com/MarkFerr/KochApp/blob/main/Screenshots/KontoErstellen_270_600.png)
@@ -39,50 +43,50 @@ Wenn du dein Passwort vergessen hast, einfach auf den Text "Passwort vergessen" 
 
 ---
 
-- Wahl der Gerichtart
+# Wahl der Gerichtart
 
   ![](https://github.com/MarkFerr/KochApp/blob/main/Screenshots/gerichtart_uebersicht_270_600.png)
 
   Hier geht leider erst der Button "Hauptgerichte" aber die anderen werden prinzipiell genauso funktionieren, wenn sie fertig sind.
   
-  Drückt man auf "Hauptgerichte" öffnet sich die Übersicht der Hauptgerichte (Link zu Hauptgericht übersicht)
+  Drückt man auf "Hauptgerichte" öffnet sich die Übersicht der Hauptgerichte ([Übersicht Hauptgerichte](#übersicht-hauptgerichte))
   
   Wenn man von der linken Seite des Bildschirms nach rechts wischt oder auf das Drawer-Symbol in der Ecke oben links drückt, öffnet sich das Drawer-Menü (Link zu Drawer abteil)
 
   ---
   
-- Übersicht Hauptgerichte
+# Übersicht Hauptgerichte
 
 ![](https://github.com/MarkFerr/KochApp/blob/main/Screenshots/Hauptgericht_uebersicht_270_600.png)
 
-Hier hat man die Übersicht aller erstellten Hauptgerichte. Über den "+"-Button kann man Gerichte hinzufügen (Link zu Gericht Hinzufügen).
+Hier hat man die Übersicht aller erstellten Hauptgerichte. Über den "+"-Button kann man [Gerichte hinzufügen](#gericht-hinzufügen).
 
-Man kann sich eine Detailiertere Ansicht eines bestimmten Gerichts anzeigen lassen, indem man auf diese Gericht drückt (Link zu Detailansicht Gerichte).
+Man kann sich eine [Detailiertere Ansicht](#hauptgericht-im-detail) eines bestimmten Gerichts anzeigen lassen, indem man auf diese Gericht drückt.
 
 Außerdem kann man das Bild des entsprechenden Gerichts ändern oder das Gericht löschen, indem man länger auf das Gericht drückt.
 
 ---
 
-- Hauptgericht im Detail
+# Hauptgericht im Detail
 
 ![](https://github.com/MarkFerr/KochApp/blob/main/Screenshots/Detailansicht_270_600.png)
 ![](https://github.com/MarkFerr/KochApp/blob/main/Screenshots/gerichtOptionen_270_600.png)
 
 Hier sieht man das gewählte Gericht im Detail. Man kann die Personenanzahl, für die man Kochen möchte, ändern. Entsprechend passen sich die Zutaten, die benötigt sind, an.
 
-Drückt man auf den Button oben rechts in der Ecke, öffnet sich ein Menü. Hier kann man das Bild vom Gericht ändern, das Gericht bearbeiten, das Gericht löschen und einen Termin bestimmen, an dem man das Gericht essen möchte(Gericht planen)(Link zu gericht planen).
+Drückt man auf den Button oben rechts in der Ecke, öffnet sich ein Menü. Hier kann man das Bild vom Gericht ändern, das Gericht bearbeiten, das Gericht löschen und einen Termin bestimmen, an dem man das Gericht essen möchte ([Gericht planen](#gericht-planen,-von-der-detailansicht)).
 
 ---
 
-- Gericht planen, von der Detailansicht
+# Gericht planen, von der Detailansicht
 
 ![](https://github.com/MarkFerr/KochApp/blob/main/Screenshots/Gericht_Planen_vonDetail_270_600.png)
 
-In diesem Fenster kann man ein Datum wählen und die Personenzahl, für die man das Gericht Plant. Drückt man auf "Set Date" wird ein Eintrag für dieses Gericht im Kalender gemacht (Link zu Kalender).
+In diesem Fenster kann man ein Datum wählen und die Personenzahl, für die man das Gericht Plant. Drückt man auf "Set Date" wird ein Eintrag für dieses Gericht im [Kalender](#kalender) gemacht.
 
 ---
 
-- Gericht hinzufügen
+# Gericht hinzufügen
 
 ![](https://github.com/MarkFerr/KochApp/blob/main/Screenshots/Gericht_hinzufuegen_270_600.png)
 ![](https://github.com/MarkFerr/KochApp/blob/main/Screenshots/gericht_hinzufuegen2_270_600.png)
@@ -97,17 +101,17 @@ Hier muss man alle Felder nach Belieben ausfüllen, um das Gericht zu beschreibe
 
 ---
 
-- Drawermenü
+# Drawermenü
 
 ![](https://github.com/MarkFerr/KochApp/blob/main/Screenshots/Drawer_270_600.png)
 
 Mit dem Drawermenü kann man zwischen den Hauptfunktionen der App navigieren. Das Design ist noch nicht sonderlich weit entwickelt, aber dafür funktionieren fast alle Funktionen.
 
-Über "Gerichte" kommt man zur Wahl der Gerichtart (Link zu wahl der Gerichtart).
+Über [Gerichte](#wahl-der-gerichtart) kommt man zur Wahl der Gerichtart.
 
-"Kalender" öffnet den Kalender, wer hätte das gedacht (Link zu Kalender).
+[Kalender](#kalender) öffnet den Kalender, wer hätte das gedacht.
 
-"Einkaufsliste" -> (Link zu Einkaufsliste).
+[Einkaufsliste](#einkaufsliste) -> [Einkaufsliste](#einkaufsliste).
 
 "Einstellungen" funktionieren noch nicht.
 
@@ -115,7 +119,7 @@ In späteren Versionen sieht man hier dann warscheinlich auch die Versionsnummer
 
 ---
 
-- Kalender
+# Kalender
 
 ![](https://github.com/MarkFerr/KochApp/blob/main/Screenshots/Kalender3_270_600.png)
 ![](https://github.com/MarkFerr/KochApp/blob/main/Screenshots/Kalender2_270_600.png)
@@ -125,15 +129,15 @@ Der Kalender ist noch etwas Fehlerbefallen aber die Grundfunktionen funktioinier
 
 Die grünen Punkte Zeigen einen Eintrag an. Wählt man einen dieser Tage aus, werden einem die geplanten Gerichte für den Tag angezeigt.
 
-Drückt man auf diese komische Einkaufswagen-Symbol werden (wie da drüber auch zu lesen ist) alle Zutaten der Ausgewählten Woche zur Einkaufsliste hinzugefügt (link zu EInkaufsliste).
+Drückt man auf diese komische Einkaufswagen-Symbol werden (wie da drüber auch zu lesen ist) alle Zutaten der Ausgewählten Woche zur [Einkaufsliste](#einkaufsliste) hinzugefügt.
 
-Mit dem "+"-Button kann man für den ausgewählten Tag ein Gericht planen (Link zu Gericht planen Kalender).
+Mit dem "+"-Button kann man für den ausgewählten Tag ein [Gericht planen](#gericht-planen,-vom-kalender).
 
 Man kann nicht in der Vergangenheit planen und auch nur bis zu 3 Monate in die Zukunft.
 
 ---
 
-- Gericht planen, vom Kalender
+# Gericht planen, vom Kalender
 
 ![](https://github.com/MarkFerr/KochApp/blob/main/Screenshots/Kalender_planen_270_600.png)
 
@@ -141,7 +145,9 @@ Hier kann man die Anzahl der Leute bestimmen, für die man Kochen möchte.
 
 Achtung! Sobald man auf ein Gericht dürckt, wird das Gericht geplant, sofern die Vorraussetzungen stimmen. Da sollte ich vielleicht noch ein Bestätigungs-Button hinzufügen (gerne feedback dazu).
 
-- Einkaufsliste
+---
+
+# Einkaufsliste
 
 ![](https://github.com/MarkFerr/KochApp/blob/main/Screenshots/Einkaufsliste1_270_600.png)
 ![](https://github.com/MarkFerr/KochApp/blob/main/Screenshots/Einkaufsliste2_270_600.png)
@@ -163,4 +169,11 @@ Viel spaß damit und ich hoffe es läuft nicht zu viel schief.
 
 --- 
 
-Infos zu neuen Versionen lade ich dann warscheinlich in ein Seperates Text dokumenten ding hoch.
+[Back to top](#kochapp)
+
+---
+
+# Neue Features
+
+## "versionsnummer hier hin"
+
