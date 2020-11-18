@@ -175,5 +175,7 @@ Viel spaß damit und ich hoffe es läuft nicht zu viel schief.
 
 # Neue Features
 
-## "versionsnummer hier hin"
+## v0.02 Bugfix
+
+Jetzt sollte es gehen Leon
 
