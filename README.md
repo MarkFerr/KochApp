@@ -14,7 +14,7 @@ Ich suche übrigens noch nach einem passenden Namen, also nur her mit den Vorsch
 
 - [Zu den neuen Features](#neue-features) (neuste Version v0.10)
 
-- [Login, Konto erstellen, Passwort vergessen](#login,-konto-erstellen,-passwort-vergessen)
+- [Login, Konto erstellen, Passwort vergessen](#login)
 
 - [Wahl der Gerichtart](#wahl-der-gerichtart)
 
@@ -59,7 +59,7 @@ Hier noch eine kleine Anleitung dazu: https://www.wikihow.com/Install-APK-Files-
 
 Nun zur app selbst. Ich werde hier kurz alle Funktionen zeigen und kurz beschreiben. Du kannst natürlich auch einfach loslegen und dich in der App austoben. Es sollte alles selbsterklärend sein.
 
-# Login, Konto erstellen, Passwort vergessen:
+# Login
 
 ![](https://github.com/MarkFerr/KochApp/blob/main/Screenshots/Login_270_600.png)
 ![](https://github.com/MarkFerr/KochApp/blob/main/Screenshots/KontoErstellen_270_600.png)
@@ -68,6 +68,10 @@ Nun zur app selbst. Ich werde hier kurz alle Funktionen zeigen und kurz beschrei
   Ich gehe mal davon aus, dass du dich schonmal irgendwo angemeldet hast. Wenn du dir ein Konto erstellst, musst du keine echte E-mail adresse verwenden, aber dann Funktioniert auch nicht die "Passwort vergessen" Funktion.
 
 Wenn du dein Passwort vergessen hast, einfach auf den Text "Passwort vergessen" clicken, deine E-Mail-Adresse eingeben und auf eine E-Mail von Firebase warten.
+
+[Zu den neuen Features](#neue-features)
+
+[Back to top](#kochapp)
 
 ---
 
@@ -80,6 +84,11 @@ Wenn du dein Passwort vergessen hast, einfach auf den Text "Passwort vergessen" 
   Drückt man auf "Hauptgerichte" öffnet sich die Übersicht der Hauptgerichte ([Übersicht Gerichte](#übersicht-gerichte))
   
   Wenn man von der linken Seite des Bildschirms nach rechts wischt oder auf das Drawer-Symbol in der Ecke oben links drückt, öffnet sich der [Drawer](#drawer)
+
+
+[Zu den neuen Features](#neue-features)
+
+[Back to top](#kochapp)
 
   ---
   
@@ -94,6 +103,12 @@ kann man die Gerichte nach wunsch [sortieren](#gerichte-sortieren). Mit ![](http
 
 Außerdem kann man das Bild des entsprechenden Gerichts ändern oder das Gericht löschen, indem man länger auf das Gericht drückt.
 
+
+
+[Zu den neuen Features](#neue-features)
+
+[Back to top](#kochapp)
+
 ---
 
 # Gericht im Detail
@@ -105,6 +120,12 @@ Hier sieht man das gewählte Gericht im Detail. Man kann die Personenanzahl, fü
 
 Drückt man auf den Button oben rechts in der Ecke, öffnet sich ein Menü. Hier kann man das Bild vom Gericht ändern, das Gericht bearbeiten, das Gericht löschen und einen Termin bestimmen, an dem man das Gericht essen möchte ([Gericht planen](#gericht-planen-von-der-detailansicht)).
 
+
+
+[Zu den neuen Features](#neue-features)
+
+[Back to top](#kochapp)
+
 ---
 
 # Gericht planen von der Detailansicht
@@ -112,6 +133,11 @@ Drückt man auf den Button oben rechts in der Ecke, öffnet sich ein Menü. Hier
 ![](https://github.com/MarkFerr/KochApp/blob/main/Screenshots/Gericht_Planen_vonDetail_270_600.png)
 
 In diesem Fenster kann man ein Datum wählen und die Personenzahl, für die man das Gericht Plant. Drückt man auf "Set Date" wird ein Eintrag für dieses Gericht im [Kalender](#kalender) gemacht.
+
+
+[Zu den neuen Features](#neue-features)
+
+[Back to top](#kochapp)
 
 ---
 
@@ -128,6 +154,11 @@ Hier muss man alle Felder nach Belieben ausfüllen, um das Gericht zu beschreibe
 ![Zutaten](https://github.com/MarkFerr/KochApp/blob/main/Screenshots/Zutaten_hinzufuegen_270_600.png)
 ![Zutaten](https://github.com/MarkFerr/KochApp/blob/main/Screenshots/Zutaten_hinzufuegen_u_entfernen_270_600.png)
 
+
+[Zu den neuen Features](#neue-features)
+
+[Back to top](#kochapp)
+
 ---
 
 # Gerichte sortieren
@@ -137,6 +168,11 @@ Hier muss man alle Felder nach Belieben ausfüllen, um das Gericht zu beschreibe
 Man die Gerichte Alphabetisch sortieren oder entsprechend der Kochzeit.
 
 Wenn du hier wünsche oder Ideen hast, wie man noch sortieren könnte, sag bescheid ;)
+
+
+[Zu den neuen Features](#neue-features)
+
+[Back to top](#kochapp)
 
 ---
 
@@ -148,6 +184,11 @@ Hier kann man die Gerichte Filtern. Ist eigendlich alles selbsterklärend. Man k
 
 Wenn du hier wünsche oder Ideen hast, wie man noch filtern könnte, sag bescheid ;)
 
+
+
+[Zu den neuen Features](#neue-features)
+
+[Back to top](#kochapp)
 
 ---
 
@@ -173,6 +214,11 @@ Mit dem Drawermenü kann man zwischen den Hauptfunktionen der App navigieren. Da
 
 Unten sieht man die Aktuelle Versionsnummer.
 
+
+[Zu den neuen Features](#neue-features)
+
+[Back to top](#kochapp)
+
 ---
 
 # Kalender
@@ -191,6 +237,11 @@ Mit dem "+"-Button kann man für den ausgewählten Tag ein [Gericht planen](#ger
 
 Man kann nicht in der Vergangenheit planen und auch nur bis zu 3 Monate in die Zukunft.
 
+
+[Zu den neuen Features](#neue-features)
+
+[Back to top](#kochapp)
+
 ---
 
 # Gericht planen vom Kalender
@@ -200,6 +251,11 @@ Man kann nicht in der Vergangenheit planen und auch nur bis zu 3 Monate in die Z
 Hier kann man die Anzahl der Leute bestimmen, für die man Kochen möchte. 
 
 Achtung! Sobald man auf ein Gericht dürckt, wird das Gericht geplant, sofern die Vorraussetzungen stimmen. Da sollte ich vielleicht noch ein Bestätigungs-Button hinzufügen (gerne feedback dazu).
+
+
+[Zu den neuen Features](#neue-features)
+
+[Back to top](#kochapp)
 
 ---
 
@@ -214,6 +270,11 @@ Die einkaufsliste zeigt alle benötigten Zutaten die man entweder händisch oder
 Wählt man eine Zutat aus, wird das häckchen der Zutat gesetzt. Drückt man jetzt auf "Liste Aktualisieren" werden alle "abgehakten" Zutaten entfernt.
 
 Achtung! Man darf nicht direkt auf die Box drücken, sonst funktioniert das mit dem löschen irgendwie nicht... da bin ich noch dran.
+
+
+[Zu den neuen Features](#neue-features)
+
+[Back to top](#kochapp)
 
 ---
 
@@ -238,6 +299,11 @@ Hier kann man wie in der Übersicht der Gerichte ein bestimmtes gericht auswähl
 
 Schaut man sich ein Gericht im Detail an kann man es zu seinen Gerichten hinzufügen. Dazu muss man einfach auf den Button Unten-Rechts klicken und angeben, in welcher Kategorie man das Gericht speichern möchte.
 
+
+[Zu den neuen Features](#neue-features)
+
+[Back to Top](#kochapp)
+
 ---
 
 # Benutzerprofil
@@ -249,6 +315,11 @@ Im Benutzerprofil sieht man seinen Benutzernamen, seine angegebene E-Mail Adress
 Der ShareCode gibt euch die Möglichkeit eure Gerichte,Einkaufsliste und Kalender (Kalender geht noch nicht) mit Leuten zu teilen. Wenn du also einen ShareCode erstellst, kannst du diesen an die Leute geben,
 mit denen du alles Teilen möchtest geben. Diese geben den Code dann unten ein und drücken auf "ShareCode Einlesen". Jetzt sind eure Konten verbunden und ihr seht bei den Gerichten die Gerichte von allen,
 die den Code eingegeben haben. Eure Einkaufsliste wurde auch verknüpft (da haben sich vielleicht noch ein paar Fehler versteckt, also am Besten erstmal genau drauf achten, ob es stimmt was da steht).
+
+
+[Zu den neuen Features](#neue-features)
+
+[Back to Top](#kochapp)
 
 ---
 
