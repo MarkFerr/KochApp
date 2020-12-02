@@ -12,13 +12,41 @@ Ich suche übrigens noch nach einem passenden Namen, also nur her mit den Vorsch
 
 ---
 
-- [Zu den neuen Features](#neue-features) (neuste Version v0.01)
+- [Zu den neuen Features](#neue-features) (neuste Version v0.10)
+
+- [Login, Konto erstellen, Passwort vergessen](#login,-konto-erstellen,-passwort-vergessen)
+
+- [Wahl der Gerichtart](#wahl-der-gerichtart)
+
+- [Übersicht Gerichte](#übersicht-gerichte)
+
+- [Gericht im Detail](#gericht-im-detail)
+
+- [Gericht planen von der Detailansicht](#gericht-planen-von-der-detailansicht)
+
+- [Gericht hinzufügen](#gericht-hinzufügen)
+
+- [Sortieren](#gerichte-sortieren)(v0.10)
+
+- [Filtern](#gerichte-filtern)(v0.10)
+
+- [Drawer](#drawer)(v0.10)
+
+- [Kalender](#kalender)
+
+- [Gericht planen vom Kalender](#gericht-planen-vom-kalender)
+
+- [Einkaufsliste](#einkaufsliste)
+
+- [Gerichtbrowser](#browser)(v0.10)
+
+- [Benutzerprofil](#benutzerprofil)(v0.10)
 
 ---
 
 (Sorry für alle Rechtschreibfehler)
 
--------
+---
 
 Fangen wir mit der Installation an.
 
@@ -47,27 +75,28 @@ Wenn du dein Passwort vergessen hast, einfach auf den Text "Passwort vergessen" 
 
   ![](https://github.com/MarkFerr/KochApp/blob/main/Screenshots/gerichtart_uebersicht_270_600.png)
 
-  Hier geht leider erst der Button "Hauptgerichte" aber die anderen werden prinzipiell genauso funktionieren, wenn sie fertig sind.
+  Es gehen jetzt alle Gerichtarten!(v0.10)
   
-  Drückt man auf "Hauptgerichte" öffnet sich die Übersicht der Hauptgerichte ([Übersicht Hauptgerichte](#übersicht-hauptgerichte))
+  Drückt man auf "Hauptgerichte" öffnet sich die Übersicht der Hauptgerichte ([Übersicht Gerichte](#übersicht-gerichte))
   
-  Wenn man von der linken Seite des Bildschirms nach rechts wischt oder auf das Drawer-Symbol in der Ecke oben links drückt, öffnet sich das Drawer-Menü (Link zu Drawer abteil)
+  Wenn man von der linken Seite des Bildschirms nach rechts wischt oder auf das Drawer-Symbol in der Ecke oben links drückt, öffnet sich der [Drawer](#drawer)
 
   ---
   
-# Übersicht Hauptgerichte
+# Übersicht Gerichte
 
-![](https://github.com/MarkFerr/KochApp/blob/main/Screenshots/Hauptgericht_uebersicht_270_600.png)
+![](https://github.com/MarkFerr/KochApp/blob/main/Screenshots/Gerichte_mit_FIlter_und_so_270_600.png)
 
-Hier hat man die Übersicht aller erstellten Hauptgerichte. Über den "+"-Button kann man [Gerichte hinzufügen](#gericht-hinzufügen).
+Hier hat man die Übersicht aller erstellten Gerichte der ausgewählten Gerichtart. Über den "+"-Button kann man [Gerichte hinzufügen](#gericht-hinzufügen).
 
-Man kann sich eine [Detailiertere Ansicht](#hauptgericht-im-detail) eines bestimmten Gerichts anzeigen lassen, indem man auf diese Gericht drückt.
+Man kann sich eine [Detailiertere Ansicht](#hauptgericht-im-detail) eines bestimmten Gerichts anzeigen lassen, indem man auf diese Gericht drückt. Drückt im Action-Bar auf ![](https://github.com/MarkFerr/KochApp/blob/main/Screenshots/sortieren_20_20.png) 
+kann man die Gerichte nach wunsch [sortieren](#gerichte-sortieren). Mit ![](https://github.com/MarkFerr/KochApp/blob/main/Screenshots/filtern_20_20.png) kann man die gerichte [filtern](#gerichte-filtern) (Das symbol wird in Zukunft warscheinlich geändert). 
 
 Außerdem kann man das Bild des entsprechenden Gerichts ändern oder das Gericht löschen, indem man länger auf das Gericht drückt.
 
 ---
 
-# Hauptgericht im Detail
+# Gericht im Detail
 
 ![](https://github.com/MarkFerr/KochApp/blob/main/Screenshots/Detailansicht_270_600.png)
 ![](https://github.com/MarkFerr/KochApp/blob/main/Screenshots/gerichtOptionen_270_600.png)
@@ -101,21 +130,48 @@ Hier muss man alle Felder nach Belieben ausfüllen, um das Gericht zu beschreibe
 
 ---
 
-# Drawermenü
+# Gerichte sortieren
 
-![](https://github.com/MarkFerr/KochApp/blob/main/Screenshots/Drawer_270_600.png)
+![](https://github.com/MarkFerr/KochApp/blob/main/Screenshots/sortieren_270_600.png)
+
+Man die Gerichte Alphabetisch sortieren oder entsprechend der Kochzeit.
+
+Wenn du hier wünsche oder Ideen hast, wie man noch sortieren könnte, sag bescheid ;)
+
+---
+
+# Gerichte filtern
+
+![](https://github.com/MarkFerr/KochApp/blob/main/Screenshots/filtern_270_600.png)
+
+Hier kann man die Gerichte Filtern. Ist eigendlich alles selbsterklärend. Man kann hier auch mehrere sachen zum filtern angeben.
+
+Wenn du hier wünsche oder Ideen hast, wie man noch filtern könnte, sag bescheid ;)
+
+
+---
+
+# Drawer
+
+![](https://github.com/MarkFerr/KochApp/blob/main/Screenshots/new_drawer_270_600.png)
+
+Unter dem Benutzernamen und der Email-Adresse sieht man den Downloadcounter. Dieser Zeigt an, wie viele seiner Gerichte aus dem Browser gespeichert wurden.
 
 Mit dem Drawermenü kann man zwischen den Hauptfunktionen der App navigieren. Das Design ist noch nicht sonderlich weit entwickelt, aber dafür funktionieren fast alle Funktionen.
 
-Über [Gerichte](#wahl-der-gerichtart) kommt man zur Wahl der Gerichtart.
+- Über [Gerichte](#wahl-der-gerichtart) kommt man zur Wahl der Gerichtart.
 
-[Kalender](#kalender) öffnet den Kalender, wer hätte das gedacht.
+- [Kalender](#kalender) öffnet den Kalender, wer hätte das gedacht.
 
-[Einkaufsliste](#einkaufsliste) -> [Einkaufsliste](#einkaufsliste).
+- [Einkaufsliste](#einkaufsliste) -> [Einkaufsliste](#einkaufsliste).
 
-"Einstellungen" funktionieren noch nicht.
+- [Browser](#browser)
 
-In späteren Versionen sieht man hier dann warscheinlich auch die Versionsnummer.
+- [Profil](#benutzerprofil)
+
+- "Einstellungen" funktionieren noch nicht.
+
+Unten sieht man die Aktuelle Versionsnummer.
 
 ---
 
@@ -161,6 +217,41 @@ Achtung! Man darf nicht direkt auf die Box drücken, sonst funktioniert das mit 
 
 ---
 
+# Browser
+
+## Übersicht
+
+![](https://github.com/MarkFerr/KochApp/blob/main/Screenshots/browser1_270_600.png)
+
+Hier kann man wie bei der Wahl der Gerichtart, die Art des Gerichtes angeben, wonach man suchen möchte. Man kann auch "alles Durchsuchen".
+
+## Gerichte
+
+![](https://github.com/MarkFerr/KochApp/blob/main/Screenshots/browser4_270_600.png)
+
+Hier kann man wie in der Übersicht der Gerichte ein bestimmtes gericht auswählen, um es im Detail zu betrachten. Man kann auch die Gerichte [filtern](#gerichte-filtern) oder [sortieren](#gerichte-sortieren)
+
+## Gericht im Detail
+
+![](https://github.com/MarkFerr/KochApp/blob/main/Screenshots/browser2_270_600.png)
+![](https://github.com/MarkFerr/KochApp/blob/main/Screenshots/browser3_270_600.png)
+
+Schaut man sich ein Gericht im Detail an kann man es zu seinen Gerichten hinzufügen. Dazu muss man einfach auf den Button Unten-Rechts klicken und angeben, in welcher Kategorie man das Gericht speichern möchte.
+
+---
+
+# Benutzerprofil
+
+![](https://github.com/MarkFerr/KochApp/blob/main/Screenshots/profil_270_600.png)
+
+Im Benutzerprofil sieht man seinen Benutzernamen, seine angegebene E-Mail Adresse und seinen ShareCode. Den Benutzernamen kann man ändern, in dem man auf den Button neben dem Benutzernamen drückt.
+
+Der ShareCode gibt euch die Möglichkeit eure Gerichte,Einkaufsliste und Kalender (Kalender geht noch nicht) mit Leuten zu teilen. Wenn du also einen ShareCode erstellst, kannst du diesen an die Leute geben,
+mit denen du alles Teilen möchtest geben. Diese geben den Code dann unten ein und drücken auf "ShareCode Einlesen". Jetzt sind eure Konten verbunden und ihr seht bei den Gerichten die Gerichte von allen,
+die den Code eingegeben haben. Eure Einkaufsliste wurde auch verknüpft (da haben sich vielleicht noch ein paar Fehler versteckt, also am Besten erstmal genau drauf achten, ob es stimmt was da steht).
+
+---
+
 So das wars dann auch endlich mit der Beschreibung.
 
 Wie gesagt wenn irgendwas nicht geht, irgendwie besser gehen sollte, oder einfach Optisch nicht passt, schreib mir.
@@ -178,4 +269,36 @@ Viel spaß damit und ich hoffe es läuft nicht zu viel schief.
 ## v0.02 Bugfix
 
 Jetzt sollte es gehen Leon
+
+## v0.10 BigUpdate
+
+Es ist viel Inhalt dazu gekommen, also haben sich bestimmt auch viele Fehler eingeschlichen...
+
+### Neuheiten:
+
+- Restlichen Gerichte sind funktionsfähig
+
+- [Gerichte filtern](#gerichte-filtern)
+
+- [Gerichte sortieren](#gerichte-sortieren)
+
+- [Gerichtbrowser](#browser)
+
+- [Benutzerprofil](#benutzerprofil)
+
+- ShareCode!
+
+### Anpassungen und Fixes:
+
+- Versionsnummer und Downloadcounter ist jetzt im [Drawer](#drawer) sichtbar
+
+- Fehler, dass man nicht alle Zutaten gesehen hat, ist behoben
+
+- Fehler beim Umrechnen der mengen der Zutaten, ist behoben
+
+
+
+
+
+
 
