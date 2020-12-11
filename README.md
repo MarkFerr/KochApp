@@ -12,7 +12,7 @@ Ich suche übrigens noch nach einem passenden Namen, also nur her mit den Vorsch
 
 ---
 
-- [Zu den neuen Features](#neue-features) (neuste Version v0.10)
+- [Zu den neuen Features](#neue-features) (neuste Version v0.11)
 
 - [Login, Konto erstellen, Passwort vergessen](#login)
 
