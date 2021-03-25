@@ -12,7 +12,7 @@ Ich suche übrigens noch nach einem passenden Namen, also nur her mit den Vorsch
 
 ---
 
-- [Zu den neuen Features](#neue-features) (neuste Version v0.11)
+- [Zu den neuen Features](#neue-features) (neuste Version v0.3)
 
 - [Login, Konto erstellen, Passwort vergessen](#login)
 
@@ -368,6 +368,31 @@ Es ist viel Inhalt dazu gekommen, also haben sich bestimmt auch viele Fehler ein
 - Fehler beim Umrechnen der mengen der Zutaten, ist behoben
 
 
+## v0.3 Update nach kleinem Absturz der Database
+
+Ich bezweifle mal das das hier eh jemand lies, also schreibe ich nur kurz Was alles neu ist und dokumentiere das dann alles wenn ich mal richtig Lust drauf hab
+
+### Neuheiten
+
+#### Einstellungen
+
+Man kann jetzt sachen einstellen.
+
+- in den Präferenzen kann man sachen wie Sprache(nur Deutsch), Standard Sortiermethode der Gerichte und die Standard Personenzahl, für die man normalerweise Kocht festlegen
+- Zutaten werden in Kategorien eingeteilt ( zb Äpfel in Obst und gemüse) man kann Inhalt und Reihenfolge(durch drag & drop (Speichern nicht vergessen!!)) der Kategorien in den einstellungen ändern.
+
+#### Kategorien
+
+- Zutaten werden in Kategorien eingeteilt
+- Die einkaufsliste wird nach der Reihenfolge, die in den einstellungen eingestellt(??) ist, sortiert (komischer satz..)
+
+#### Bekannte bugs 
+
+Ich bin noch nicht dazu gekommen alles so richtig zum Laufen zu bekommen...
+
+- Die Zutaten von Leuten in seiner Share-Code-Gruppe werden in der Einkaufsliste meistens doppelt angezeigt...
+- Kalender ist noch etwas komisch und verwirrend ( warscheinlich auch fehlerbefallen)
+- und viele mehr
 
 
 
