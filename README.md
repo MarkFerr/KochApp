@@ -12,7 +12,7 @@ Ich suche übrigens noch nach einem passenden Namen, also nur her mit den Vorsch
 
 ---
 
-- [Zu den neuen Features](#neue-features) (neuste Version v0.3)
+- [Zu den neuen Features](#neue-features) (neuste Version v0.3.1)
 
 - [Login, Konto erstellen, Passwort vergessen](#login)
 
@@ -393,6 +393,11 @@ Ich bin noch nicht dazu gekommen alles so richtig zum Laufen zu bekommen...
 - Die Zutaten von Leuten in seiner Share-Code-Gruppe werden in der Einkaufsliste meistens doppelt angezeigt...
 - Kalender ist noch etwas komisch und verwirrend ( warscheinlich auch fehlerbefallen)
 - und viele mehr
+
+## v3.1 Fix
+
+- nachtische werden an der richtigen Stelle hochgeladen, damit sie auch wieder aufgerufen werden können
+- man kann "," , "." und Leerzeichen in das Vorgehen schreiben
 
 
 
